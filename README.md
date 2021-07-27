@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋, I'm ohtorii
 
 [![Github](https://img.shields.io/github/followers/ohtorii?label=Follow&style=social)](https://github.com/ohtorii)
 
