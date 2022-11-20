@@ -1,5 +1,7 @@
 ### Hey 👋, I'm ohtorii
 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ohtorii)
+
 [![Github](https://img.shields.io/github/followers/ohtorii?label=Follow&style=social)](https://github.com/ohtorii)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohtorii&hide=html)
